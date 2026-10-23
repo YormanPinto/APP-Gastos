@@ -1,0 +1,6 @@
+{
+  "name": "Gestor de Gastos Personales con Semáforo de Presupuesto",
+  "description": "Controla tus finanzas mensuales con registro categorizado de gastos, análisis de consumo y semáforo de presupuesto visual en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
